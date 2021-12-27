@@ -1,4 +1,4 @@
-## Metaverse Chat App
+## Metaverse Chat Room
 
 Metaverse Chat app are immersive where you can co-create your metamask account and interact in a social manner with friends/family.
 
