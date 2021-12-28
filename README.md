@@ -24,3 +24,6 @@ U can use this chat app for group discussions, talk to friends/family etc.
 - TailwindCSS
 - Metamask
 - Dicebar Avatar
+
+## License 
+MIT License 
