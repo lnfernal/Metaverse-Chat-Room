@@ -2,7 +2,7 @@
 
 Metaverse Chat Room are immersive where you can create your metamask account and interact in a social manner with friends/family. 
 U can use this chat app for group discussions, talk to friends/family etc. 
-dhdbhxdbhbdbdbx
+
 
 ## How to use it
 
