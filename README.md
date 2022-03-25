@@ -12,8 +12,6 @@ U can use this chat app for group discussions, talk to friends/family etc.
 - Once your Logged in, u can chat with your friends etc. But your friends should also have the account linked to the app. Otherwise the app will not work.
 - Whenever u try to log in, u will get an different avatar. That is powered by Dicebar Avatar. 
 - After clicking on the Avatar, yall will get redirected to the login screen. 
-- This app is completely mobile responsive. 
-
 
 ## Tech used 
 
@@ -27,3 +25,5 @@ U can use this chat app for group discussions, talk to friends/family etc.
 
 ## License 
 MIT License 
+
+jbcrxutjcicitcrtxixi
