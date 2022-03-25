@@ -26,6 +26,3 @@ NOTE: This app is completely Mobile Responsive.
 
 ## License 
 MIT License 
-
-jbcrxutjcicitcrtxixi
-hjgfidkfxridddddddddr
